@@ -17,7 +17,7 @@ In the IntroSort, implemented a hybrid sorting algorithm. Heap Sort and Quick So
 # Running Time Computation
 
 The program offers you some options. Such as, the scenario of the index to be scanned (Equal Integers, Integers, Increasing Integers, Decreasing Integers), the size of the array (1000, 10000, 10000).
-[](https://github.com/derectus/Visual-Sort-Algorithms-Analyzer/Images/rt-computation.png)
+[rt-computation](https://github.com/derectus/Visual-Sort-Algorithms-Analyzer/Images/rt-computation.png)
 
 ### Completed Tasks
 1.  HeapSort    
